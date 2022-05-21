@@ -1,0 +1,16 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{Executive Summary}{2}{Doc-Start}%
+\contentsline {section}{\numberline {1}{Introduction}}{3}{section.1}%
+\contentsline {section}{\numberline {2}{Methodology}}{3}{section.2}%
+\contentsline {section}{\numberline {3}{Main Results and Findings}}{4}{section.3}%
+\contentsline {section}{\numberline {4}{Analysis and Discussion}}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Lewin's Force Field Analysis}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ratio Analysis}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}SWOT Analysis}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Fishbone Diagram}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {5}{Limitations of Study}}{9}{section.5}%
+\contentsline {section}{\numberline {6}{Conclusion and Recommendations}}{9}{section.6}%
+\contentsline {section}{References}{11}{section.6}%
+\contentsline {section}{\numberline {A}Appendix: Interview with Company Owner}{12}{appendix.A}%
+\contentsline {section}{\numberline {B}Appendix: Company Financials}{13}{appendix.B}%
+\contentsline {section}{\numberline {C}Appendix: Questionnaire}{20}{appendix.C}%

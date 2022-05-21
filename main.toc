@@ -1,0 +1,15 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{Executive Summary}{2}{Doc-Start}%
+\contentsline {section}{\numberline {1}{Introduction}}{3}{section.1}%
+\contentsline {section}{\numberline {2}{Methodology}}{3}{section.2}%
+\contentsline {section}{\numberline {3}{Main Results and Findings}}{4}{section.3}%
+\contentsline {section}{\numberline {4}{Analysis and Discussion}}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Lewin's Force Field Analysis}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ratio Analysis}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}SWOT Analysis}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Fishbone Diagram}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}PEST Analysis}{8}{subsection.4.5}%
+\contentsline {section}{\numberline {5}{Limitations of Study}}{8}{section.5}%
+\contentsline {section}{\numberline {6}{Conclusion and Recommendations}}{8}{section.6}%
+\contentsline {section}{References}{10}{section.6}%
+\contentsline {section}{\numberline {A}Appendix: Company Financials}{11}{appendix.A}%
